@@ -1,0 +1,19 @@
+th{
+    background-color:orange;
+    border: black;
+    padding: 5px;
+    border: 2px solid black;
+}
+td{
+    text-align: center;
+    padding: 5px;
+    background-color:pink;
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+.sub
+{
+    background-color: rgb(218, 137, 151);
+}
